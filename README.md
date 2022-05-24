@@ -1,16 +1,16 @@
 # My Reading Journal
 
 ### What is Markdown?
-Markdown uses simple syntax to format your text to add different design features (i.e. heading size, bold, blockquotes, etc.)
+Markdown uses simple syntax to format your text to add different design features (i.e. heading size, bold, block quotes, etc.)
 
 ### Headings:
-In order to make a heading bigger or smaller, you need to add the # symbol and a space between the symbol and your heading. The less # symbols you write, the larger the heading will be. Conversely the more # symbols you add consecutively infront of your heading, the smaller it will be. The largest heading has one # and the smallest heading has ######. 
+In order to make a heading bigger or smaller, you need to add the # symbol and a space between the symbol and your heading. The less # symbols you write, the larger the heading will be. Conversely the more # symbols you add consecutively in front of your heading, the smaller it will be. The largest heading has one # and the smallest heading has ######. 
 
 ### Bold:
 Bolding text is fairly simple. In order to **bold** your text you need to add two * symbols in front of and after the word(s) you are **bolding**.
 
-### Blockquotes:
-> Blockquotes just require one > symbol in front of a line with a space after it. 
+### Block quotes:
+> Block quotes just require one > symbol in front of a line with a space after it. 
 > 
 > To add more block quotes, drop down to the line below your first paragraph and add another > symbol and leave the rest of the line blank. Then drop down one more line, add another > symbol with a space and write your second paragraph. 
 
