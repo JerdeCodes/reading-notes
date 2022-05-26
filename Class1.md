@@ -1,8 +1,3 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
---- 
 ### What is Markdown?
 Markdown uses simple syntax to format your text to add different design features (i.e. heading size, bold, block quotes, etc.)
 
